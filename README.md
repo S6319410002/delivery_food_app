@@ -7,7 +7,6 @@
 ### Dev By : Flutter/Dart/vs-code
 
 ***
-<img src="https://user-images.githubusercontent.com/127838743/226536014-919157e7-2fda-4cba-91c4-6967d8456b47.png" width="150">
 
 <table>
     <Tr>
